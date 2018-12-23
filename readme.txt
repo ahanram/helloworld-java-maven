@@ -6,13 +6,13 @@ For any questions - Please email me at DevOps@RajeshKumar.xyz
 	<repository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://13.127.163.182:8081/repository/scmgalaxy/</url>
+		<url>http://52.66.212.86:8081/repository/ahan/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://52.66.106.91:8081/nexus/content/repositories/snapshot/</url>
+		<url>http://52.66.212.86:8081/repository/ahan/</url>
 	</snapshotRepository>
 
 </distributionManagement>
@@ -23,22 +23,22 @@ For any questions - Please email me at DevOps@RajeshKumar.xyz
 	<repository>
 		<id>rajesh</id>
 		<name>Internal Releases</name>
-		<url>http://13.127.94.210:8081/artifactory/list/rajesh-release/</url>
+		<url>http://52.66.212.86:8081/repository/ahan/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>rajesh</id>
 		<name>Internal Releases</name>
-		<url>http://13.127.94.210:8081/artifactory/list/rajesh-snapshot/</url>
+		<url>http://52.66.212.86:8081/repository/ahan/</url>
 	</snapshotRepository>
 
 </distributionManagement>
 
 =====================SETTING.XML=================================
    <server>
-		<id>rajesh</id>
-		<username>rajesh-user</username>
-		<password>rajesh-user123</password>
+		<id>ahan</id>
+		<username>admin</username>
+		<password>admin123</password>
 </server>
 
 =======================Setting.xml with Artifactory Setup======================
