@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
+        <id>ahan</id>
         <name>release softx</name>
-        <url>http://52.66.212.86:8081/repository/rajesh/</url>
+        <url>http://52.66.212.86:8081/repository/ahan/</url>
     </repository>
     <snapshotRepository>
-        <id>sym</id>
+        <id>ahan</id>
         <name>snapshot softx</name>
-        <url>http://52.66.212.86:8081/repository/rajesh/</url>
+        <url>http://52.66.212.86:8081/repository/ahan/</url>
     </snapshotRepository>
 </distributionManagement>
 
